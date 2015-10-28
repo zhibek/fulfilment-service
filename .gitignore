@@ -1,3 +1,4 @@
 /.vagrant
 /logs
 /vendor
+/composer.lock
